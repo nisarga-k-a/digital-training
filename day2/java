@@ -1,1 +1,48 @@
 
+Data Analysis
+Data analysis involves inspecting, cleaning, transforming, and modeling data to discover useful information, draw conclusions, and support decision-making. It typically includes:
+
+Descriptive Analysis: Summarizing data (e.g., mean, median, mode).
+Inferential Analysis: Making predictions or inferences about a population based on a sample.
+Predictive Analysis: Using statistical models to predict future outcomes.
+Prescriptive Analysis: Recommending actions based on data.
+Data Cleaning/Prep Data Transformation
+Data cleaning and preparation are crucial steps in data analysis to ensure data quality and accuracy. This involves:
+
+Handling Missing Values: Filling in or removing missing data.
+
+df.fillna(0)  # Fill missing values with 0
+df.dropna()   # Remove rows with missing values
+Removing Duplicates:
+
+df.drop_duplicates()
+Data Transformation: Converting data into a suitable format.
+
+df['date'] = pd.to_datetime(df['date'])  # Convert to datetime
+df['age'] = df['age'].astype(int)        # Convert to integer
+EDA (Exploratory Data Analysis) and Data Visualization
+EDA involves analyzing data sets to summarize their main characteristics, often using visual methods. It helps in understanding the data distribution, spotting anomalies, and identifying patterns.
+
+Summary Statistics:
+
+df.describe()  # Get summary statistics
+Visualizations: Creating plots to visualize data.
+
+df.plot(kind='hist')  # Histogram
+df.plot(kind='box')   # Box plot
+Visualization Libraries: Seaborn and MATLAB
+Seaborn: A Python visualization library based on matplotlib that provides a high-level interface for drawing attractive statistical graphics.
+
+import seaborn as sns
+import matplotlib.pyplot as plt
+
+sns.histplot(df['age'])
+plt.show()
+MATLAB: A high-performance language for technical computing, which includes visualization capabilities.
+
+x = 1:10;
+y = x.^2;
+plot(x, y)
+title('Square Function')
+xlabel('x')
+ylabel('y')
