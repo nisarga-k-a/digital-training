@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "id": "a14b",
+      "test": 435576
+    },
+    {
+      "id": "2",
+      "name": "Bobby",
+      "email": "address",
+      "address": "Mysore"
+    },
+    {
+      "id": "4",
+      "name": "Nisarga",
+      "email": "Nisarga@gmailcom",
+      "address": "Bengaluru"
+    }
+  ]
+}
