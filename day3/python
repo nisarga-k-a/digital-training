@@ -1,1 +1,80 @@
+Python Basics
+Datatypes: Python supports various datatypes including:
 
+Integers: Whole numbers, e.g., 5, -3.
+Floats: Decimal numbers, e.g., 3.14, -0.001.
+Strings: Text, e.g., "Hello, World!".
+Booleans: True or False values, e.g., True, False.
+Variables: Containers for storing data values. For example:
+
+x = 5
+name = "Alice"
+List: Ordered, mutable collection of items. For example:
+
+fruits = ["apple", "banana", "cherry"]
+Dictionary: Unordered, mutable collection of key-value pairs. For example:
+
+person = {"name": "John", "age": 30}
+Tuple: Ordered, immutable collection of items. For example:
+
+coordinates = (10, 20)
+Control Flow Functions
+Control flow functions help manage the flow of a program. Key concepts include:
+
+If Statements: Conditional statements.
+
+if x > 0:
+    print("Positive")
+elif x == 0:
+    print("Zero")
+else:
+    print("Negative")
+For Loops: Iterate over a sequence.
+
+for fruit in fruits:
+    print(fruit)
+While Loops: Repeat as long as a condition is true.
+
+while x < 10:
+    print(x)
+    x += 1
+Data Frame Working with Data Frame
+A DataFrame is a 2-dimensional labeled data structure with columns of potentially different types, commonly used in data analysis with the pandas library.
+
+Creating a DataFrame:
+
+import pandas as pd
+
+data = {
+    "name": ["Alice", "Bob", "Charlie"],
+    "age": [25, 30, 35]
+}
+df = pd.DataFrame(data)
+Accessing Data:
+
+print(df["name"])  # Access a column
+print(df.iloc[0])  # Access a row by index
+Libraries: pandas, numpy
+pandas: A powerful data manipulation library.
+
+import pandas as pd
+
+df = pd.read_csv("data.csv")  # Read a CSV file
+numpy: A library for numerical operations.
+
+import numpy as np
+
+arr = np.array([1, 2, 3, 4])
+print(arr.mean())  # Calculate the mean
+Creating a Simple Logger Application
+A logger application records messages or events. Here's a simple example using Python's built-in logging module:
+
+import logging
+
+# Configure the logger
+logging.basicConfig(filename='app.log', level=logging.INFO)
+
+# Log some messages
+logging.info('This is an info message')
+logging.warning('This is a warning message')
+logging.error('This is an error message')
