@@ -1,1 +1,52 @@
+Introduction to Cloud Computing
+Cloud computing is the delivery of computing services (such as servers, storage, databases, networking, software, and more) over the internet, often referred to as "the cloud." Instead of maintaining physical infrastructure, businesses and individuals can access computing resources on demand from cloud providers.
 
+☁️ Major Cloud Providers
+AWS (Amazon Web Services) – The leading cloud provider by Amazon, offering a wide range of services like computing, storage, networking, databases, AI, and more.
+Microsoft Azure – A cloud platform by Microsoft, providing solutions for computing, databases, AI, and enterprise services.
+Google Cloud Platform (GCP) – A cloud computing service by Google, known for its machine learning, big data analytics, and Kubernetes services.
+📦 Cloud Service Models
+Cloud computing is classified into three main service models:
+
+IaaS (Infrastructure as a Service)
+
+Provides virtualized computing resources like virtual machines, storage, and networking.
+Examples: AWS EC2, Azure Virtual Machines, Google Compute Engine.
+PaaS (Platform as a Service)
+
+Provides a platform for developers to build, deploy, and manage applications without worrying about infrastructure.
+Examples: AWS Elastic Beanstalk, Azure App Services, Google App Engine.
+SaaS (Software as a Service)
+
+Delivers software applications over the internet, accessible through a browser.
+Examples: Gmail, Google Drive, Microsoft Office 365, Dropbox.
+🌐 Services Offered by Cloud Providers
+Cloud providers offer various services, including:
+
+Compute: Virtual machines (AWS EC2, Azure VMs, GCP Compute Engine)
+Storage: Block and object storage (AWS S3, Azure Blob Storage, Google Cloud Storage)
+Databases: Managed database services (AWS RDS, Azure SQL Database, Google Cloud Spanner)
+Networking: VPNs, load balancers, DNS (AWS Route 53, Azure Virtual Network, Google Cloud VPC)
+AI/ML: Machine learning services (AWS SageMaker, Azure Machine Learning, Google AI Platform)
+Security: Identity management, encryption, security monitoring (AWS IAM, Azure AD, Google IAM)
+🚀 AWS Key Services
+1️⃣ Amazon EC2 (Elastic Compute Cloud)
+EC2 provides scalable virtual machines in the cloud.
+You can choose different instance types based on your computing needs.
+Allows on-demand, reserved, and spot instances for flexibility in cost and performance.
+2️⃣ Amazon EBS (Elastic Block Store)
+Provides block storage for EC2 instances.
+Works like a hard drive attached to a virtual machine.
+Supports different types of storage (SSD, HDD) for various use cases.
+3️⃣ Snapshots
+A snapshot is a backup of an EBS volume.
+Used to restore data or create new volumes from an existing backup.
+Useful for disaster recovery and data migration.
+4️⃣ Volumes
+EBS volumes are persistent storage devices that attach to EC2 instances.
+Can be resized or moved between instances.
+Types include General Purpose SSD (gp2/gp3), Provisioned IOPS SSD (io1/io2), and more.
+5️⃣ IAM (Identity and Access Management)
+IAM is used to manage access to AWS resources.
+Allows users, groups, roles, and permissions to control who can access what.
+Follows the principle of least privilege to enhance security.
