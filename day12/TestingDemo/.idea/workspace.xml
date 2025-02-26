@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="370ad3bb-3895-4c93-9330-70df8879544e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../digital training/java/Myproject/src/com/mindsprint/project1/basic/ArithmeticDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../digital training/java/Myproject/src/com/mindsprint/project1/basic/Assignment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../digital training/java/Myproject/src/com/mindsprint/project1/basic/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../digital training/java/Myproject/src/com/mindsprint/project1/basic/Conditional.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../digital training/java/Myproject/src/com/mindsprint/project1/basic/GradingSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../digital training/java/Myproject/src/com/mindsprint/project1/basic/HelloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../digital training/java/Myproject/src/com/mindsprint/project1/basic/IfElse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../digital training/java/Myproject/src/com/mindsprint/project1/basic/Operators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../digital training/java/Myproject/src/com/mindsprint/project1/basic/SellingPrice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../digital training/java/Myproject/src/com/mindsprint/project1/basic/Ternary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../digital training/java/Myproject/src/com/mindsprint/project1/basic/Typecasting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../digital training/java/Myproject/src/com/mindsprint/project1/basic/variable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../digital training/java/Myproject/src/com/mindsprint/project1/loops/ArrayDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../digital training/java/Myproject/src/com/mindsprint/project1/loops/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../digital training/java/Myproject/src/com/mindsprint/project1/loops/Calculator1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../digital training/java/Myproject/src/com/mindsprint/project1/loops/Constructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../digital training/java/Myproject/src/com/mindsprint/project1/loops/ForLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../digital training/java/Myproject/src/com/mindsprint/project1/loops/NestedLoops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../digital training/java/Myproject/src/com/mindsprint/project1/loops/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../digital training/java/Myproject/src/com/mindsprint/project1/loops/WaterBottle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../digital training/java/Myproject/src/com/mindsprint/project1/loops/twoDArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../digital training/java/Myproject/src/com/mindsprint/project1/student/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../digital training/java/Myproject/src/com/mindsprint/project1/student/EmployeeUsage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../digital training/java/Myproject/src/com/mindsprint/project1/student/MethodOverload.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../digital training/java/Myproject/src/com/mindsprint/project1/student/MethodOverriding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../digital training/java/Myproject/src/com/mindsprint/project1/student/Payment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../digital training/java/Myproject/src/com/mindsprint/project1/student/SampleAb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../digital training/java/Myproject/src/com/mindsprint/project1/student/Static.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../digital training/java/Myproject/src/com/mindsprint/project1/student/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../digital training/java/Myproject/src/com/mindsprint/project1/student/TestSuper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mindsprint/project/dao/CustomerDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mindsprint/project/dao/CustomerDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mindsprint/project/models/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mindsprint/project/service/CustomerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/mindsprint/CustomerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/CalciTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/SampleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/SampleTest2.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2tZ3Rbam2WyFeNLZMKPjOTmILsx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.CalciTest.addTest.executor": "Run",
+    "JUnit.CalciTest.executor": "Run",
+    "JUnit.CustomerTest.addCustomer.executor": "Run",
+    "JUnit.CustomerTest.executor": "Run",
+    "JUnit.CustomerTest.getAll.executor": "Run",
+    "JUnit.SampleTest.executor": "Run",
+    "JUnit.SampleTest2.executor": "Run",
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="JUnit.CustomerTest">
+    <configuration name="CalciTest.addTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="testingdemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.CalciTest" />
+      <option name="METHOD_NAME" value="addTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CustomerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="testingdemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mindsprint.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.mindsprint" />
+      <option name="MAIN_CLASS_NAME" value="com.mindsprint.CustomerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CustomerTest.addCustomer" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="testingdemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mindsprint.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.mindsprint" />
+      <option name="MAIN_CLASS_NAME" value="com.mindsprint.CustomerTest" />
+      <option name="METHOD_NAME" value="addCustomer" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CustomerTest.getAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="testingdemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mindsprint.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.mindsprint" />
+      <option name="MAIN_CLASS_NAME" value="com.mindsprint.CustomerTest" />
+      <option name="METHOD_NAME" value="getAll" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SampleTest2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="testingdemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.SampleTest2" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CustomerTest" />
+        <item itemvalue="JUnit.CustomerTest.getAll" />
+        <item itemvalue="JUnit.CustomerTest.addCustomer" />
+        <item itemvalue="JUnit.CalciTest.addTest" />
+        <item itemvalue="JUnit.SampleTest2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="370ad3bb-3895-4c93-9330-70df8879544e" name="Changes" comment="" />
+      <created>1740545762559</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1740545762559</updated>
+    </task>
+    <servers />
+  </component>
+</project>
